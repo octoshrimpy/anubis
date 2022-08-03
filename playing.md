@@ -50,3 +50,5 @@
   * birthdays
   * hollidays
   * trash days
+
+* CardDav/CalDav?
